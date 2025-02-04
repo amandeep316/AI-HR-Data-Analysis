@@ -1,0 +1,501 @@
+Employee_ID,Last_Name,Email,Role,Department,Training_Needs,Training_Type
+1,Smith,emma.smith@marketingresearch.com,Specialist,Data Analytics,Interested in teamwork strategies with tools like Python.,Soft Skill
+2,Smith,laura.smith@marketingresearch.com,Manager,Data Analytics,Requires advanced training in SEMrush for automation and optimization.,Hard Skill
+3,Garcia,emily.garcia@marketingresearch.com,Coordinator,Market Research,Requires emotional intelligence training to complement their knowledge of QuickBooks.,Soft Skill
+4,Williams,emma.williams@marketingresearch.com,Coordinator,Brand Strategy,Seeking training on communication skills and utilizing Microsoft Azure.,Soft Skill
+5,Martinez,jane.martinez@marketingresearch.com,Coordinator,Survey Analysis,Looking for specialized knowledge in AWS for social media management.,Hard Skill
+6,Garcia,chris.garcia@marketingresearch.com,Executive,Survey Analysis,Requires advanced training in SEMrush for automation and optimization.,Hard Skill
+7,Brown,emily.brown@marketingresearch.com,Manager,Survey Analysis,"Needs to enhance customer engagement skills, integrating Miro.",Soft Skill
+8,Miller,jane.miller@marketingresearch.com,Consultant,Brand Strategy,Seeking training on communication skills and utilizing Microsoft Azure.,Soft Skill
+9,Rodriguez,michael.rodriguez@marketingresearch.com,Executive,Client Relations,Seeks proficiency in Miro for financial modeling and forecasting.,Hard Skill
+10,Brown,robert.brown@marketingresearch.com,Executive,Data Analytics,Aims to build negotiation skills while working with SQL.,Soft Skill
+11,Garcia,robert.garcia@marketingresearch.com,Coordinator,Brand Strategy,Interested in teamwork strategies with tools like Python.,Soft Skill
+12,Brown,david.brown@marketingresearch.com,Executive,Brand Strategy,Needs to improve time management using tools like Asana.,Soft Skill
+13,Brown,laura.brown@marketingresearch.com,Coordinator,Market Research,Aiming to gain skills in Hootsuite for predictive analytics and machine learning.,Hard Skill
+14,Smith,emily.smith@marketingresearch.com,Coordinator,Market Research,Needs expertise in Unreal Engine for data analysis and visualization.,Hard Skill
+15,Martinez,robert.martinez@marketingresearch.com,Manager,Market Research,Wants to enhance expertise in Microsoft Azure for cloud computing and deployment.,Hard Skill
+16,Rodriguez,emily.rodriguez@marketingresearch.com,Manager,Client Relations,"Needs to enhance customer engagement skills, integrating Miro.",Soft Skill
+17,Brown,michael.brown@marketingresearch.com,Manager,Brand Strategy,Requires emotional intelligence training to complement their knowledge of QuickBooks.,Soft Skill
+18,Garcia,emma.garcia@marketingresearch.com,Coordinator,Client Relations,Seeking training on communication skills and utilizing Microsoft Azure.,Soft Skill
+19,Miller,emily.miller@marketingresearch.com,Executive,Brand Strategy,"Needs to enhance customer engagement skills, integrating Miro.",Soft Skill
+20,Brown,michael.brown@marketingresearch.com,Coordinator,Market Research,"Needs to enhance customer engagement skills, integrating Miro.",Soft Skill
+21,Jones,chris.jones@marketingresearch.com,Coordinator,Market Research,Wants to enhance expertise in Microsoft Azure for cloud computing and deployment.,Hard Skill
+22,Smith,chris.smith@marketingresearch.com,Executive,Data Analytics,Wants to develop leadership skills with the help of Marketo.,Soft Skill
+23,Miller,john.miller@marketingresearch.com,Analyst,Brand Strategy,Needs to improve time management using tools like Asana.,Soft Skill
+24,Davis,sarah.davis@marketingresearch.com,Consultant,Data Analytics,Needs to improve time management using tools like Asana.,Soft Skill
+25,Jones,david.jones@marketingresearch.com,Executive,Brand Strategy,Wants to learn Miro to improve business intelligence reporting.,Hard Skill
+26,Smith,robert.smith@marketingresearch.com,Coordinator,Survey Analysis,Needs hands-on experience with AWS to optimize digital campaigns.,Hard Skill
+27,Jones,chris.jones@marketingresearch.com,Specialist,Market Research,Needs hands-on experience with AWS to optimize digital campaigns.,Hard Skill
+28,Martinez,laura.martinez@marketingresearch.com,Executive,Survey Analysis,Needs expertise in Unreal Engine for data analysis and visualization.,Hard Skill
+29,Brown,emma.brown@marketingresearch.com,Manager,Market Research,Requires emotional intelligence training to complement their knowledge of QuickBooks.,Soft Skill
+30,Brown,michael.brown@marketingresearch.com,Manager,Data Analytics,Seeks proficiency in Miro for financial modeling and forecasting.,Hard Skill
+31,Martinez,robert.martinez@marketingresearch.com,Coordinator,Client Relations,Looking for specialized knowledge in AWS for social media management.,Hard Skill
+32,Smith,michael.smith@marketingresearch.com,Manager,Client Relations,Needs to improve time management using tools like Asana.,Soft Skill
+33,Miller,jane.miller@marketingresearch.com,Specialist,Client Relations,Needs expertise in Unreal Engine for data analysis and visualization.,Hard Skill
+34,Jones,michael.jones@marketingresearch.com,Manager,Survey Analysis,Needs hands-on experience with AWS to optimize digital campaigns.,Hard Skill
+35,Davis,michael.davis@marketingresearch.com,Executive,Survey Analysis,Wants to develop leadership skills with the help of Marketo.,Soft Skill
+36,Miller,michael.miller@marketingresearch.com,Coordinator,Market Research,"Needs to enhance customer engagement skills, integrating Miro.",Soft Skill
+37,Martinez,emma.martinez@marketingresearch.com,Coordinator,Survey Analysis,"Needs to enhance customer engagement skills, integrating Miro.",Soft Skill
+38,Brown,emily.brown@marketingresearch.com,Analyst,Client Relations,Aiming to gain skills in Hootsuite for predictive analytics and machine learning.,Hard Skill
+39,Rodriguez,michael.rodriguez@marketingresearch.com,Specialist,Data Analytics,Seeks proficiency in Miro for financial modeling and forecasting.,Hard Skill
+40,Williams,robert.williams@marketingresearch.com,Consultant,Market Research,Looking for specialized knowledge in AWS for social media management.,Hard Skill
+41,Rodriguez,emma.rodriguez@marketingresearch.com,Coordinator,Survey Analysis,Interested in teamwork strategies with tools like Python.,Soft Skill
+42,Johnson,sarah.johnson@marketingresearch.com,Coordinator,Data Analytics,Needs to improve time management using tools like Asana.,Soft Skill
+43,Williams,jane.williams@marketingresearch.com,Consultant,Market Research,Looking for specialized knowledge in AWS for social media management.,Hard Skill
+44,Davis,sarah.davis@marketingresearch.com,Executive,Market Research,"Needs to enhance customer engagement skills, integrating Miro.",Soft Skill
+45,Martinez,robert.martinez@marketingresearch.com,Analyst,Survey Analysis,Requires emotional intelligence training to complement their knowledge of QuickBooks.,Soft Skill
+46,Garcia,chris.garcia@marketingresearch.com,Specialist,Survey Analysis,Requires emotional intelligence training to complement their knowledge of QuickBooks.,Soft Skill
+47,Miller,michael.miller@marketingresearch.com,Manager,Data Analytics,Looking for specialized knowledge in AWS for social media management.,Hard Skill
+48,Smith,emily.smith@marketingresearch.com,Consultant,Market Research,"Needs to enhance customer engagement skills, integrating Miro.",Soft Skill
+49,Rodriguez,david.rodriguez@marketingresearch.com,Executive,Client Relations,Looking for specialized knowledge in AWS for social media management.,Hard Skill
+50,Rodriguez,emily.rodriguez@marketingresearch.com,Manager,Client Relations,Interested in teamwork strategies with tools like Python.,Soft Skill
+51,Johnson,emma.johnson@marketingresearch.com,Executive,Client Relations,Needs hands-on experience with AWS to optimize digital campaigns.,Hard Skill
+52,Garcia,emily.garcia@marketingresearch.com,Coordinator,Data Analytics,Looking for better conflict resolution strategies alongside Facebook Ads.,Soft Skill
+53,Miller,david.miller@marketingresearch.com,Consultant,Survey Analysis,"Needs to enhance customer engagement skills, integrating Miro.",Soft Skill
+54,Garcia,emma.garcia@marketingresearch.com,Analyst,Data Analytics,Aims to build negotiation skills while working with SQL.,Soft Skill
+55,Davis,david.davis@marketingresearch.com,Coordinator,Survey Analysis,Wants to enhance expertise in Microsoft Azure for cloud computing and deployment.,Hard Skill
+56,Smith,laura.smith@marketingresearch.com,Manager,Brand Strategy,Wants to develop leadership skills with the help of Marketo.,Soft Skill
+57,Brown,emily.brown@marketingresearch.com,Specialist,Brand Strategy,Aiming to gain skills in Hootsuite for predictive analytics and machine learning.,Hard Skill
+58,Davis,laura.davis@marketingresearch.com,Specialist,Survey Analysis,Looking for better conflict resolution strategies alongside Facebook Ads.,Soft Skill
+59,Miller,emma.miller@marketingresearch.com,Analyst,Market Research,Wants to develop leadership skills with the help of Marketo.,Soft Skill
+60,Johnson,david.johnson@marketingresearch.com,Analyst,Client Relations,Wants to enhance expertise in Microsoft Azure for cloud computing and deployment.,Hard Skill
+61,Miller,john.miller@marketingresearch.com,Consultant,Market Research,Wants to enhance expertise in Microsoft Azure for cloud computing and deployment.,Hard Skill
+62,Williams,david.williams@marketingresearch.com,Specialist,Market Research,Needs hands-on experience with AWS to optimize digital campaigns.,Hard Skill
+63,Rodriguez,david.rodriguez@marketingresearch.com,Manager,Brand Strategy,Aiming to gain skills in Hootsuite for predictive analytics and machine learning.,Hard Skill
+64,Johnson,jane.johnson@marketingresearch.com,Manager,Market Research,Wants to enhance expertise in Microsoft Azure for cloud computing and deployment.,Hard Skill
+65,Smith,chris.smith@marketingresearch.com,Consultant,Market Research,Wants to enhance expertise in Microsoft Azure for cloud computing and deployment.,Hard Skill
+66,Martinez,chris.martinez@marketingresearch.com,Consultant,Survey Analysis,Requires advanced training in SEMrush for automation and optimization.,Hard Skill
+67,Johnson,jane.johnson@marketingresearch.com,Manager,Survey Analysis,Looking for better conflict resolution strategies alongside Facebook Ads.,Soft Skill
+68,Davis,laura.davis@marketingresearch.com,Coordinator,Survey Analysis,Interested in teamwork strategies with tools like Python.,Soft Skill
+69,Brown,laura.brown@marketingresearch.com,Analyst,Client Relations,Seeking training on communication skills and utilizing Microsoft Azure.,Soft Skill
+70,Martinez,chris.martinez@marketingresearch.com,Executive,Survey Analysis,Wants to enhance expertise in Microsoft Azure for cloud computing and deployment.,Hard Skill
+71,Miller,emma.miller@marketingresearch.com,Specialist,Market Research,Wants to learn Miro to improve business intelligence reporting.,Hard Skill
+72,Williams,david.williams@marketingresearch.com,Consultant,Client Relations,Needs to improve time management using tools like Asana.,Soft Skill
+73,Williams,emily.williams@marketingresearch.com,Manager,Data Analytics,Needs to improve time management using tools like Asana.,Soft Skill
+74,Brown,john.brown@marketingresearch.com,Executive,Market Research,Requires advanced training in SEMrush for automation and optimization.,Hard Skill
+75,Smith,chris.smith@marketingresearch.com,Executive,Data Analytics,Looking for specialized knowledge in AWS for social media management.,Hard Skill
+76,Davis,jane.davis@marketingresearch.com,Executive,Brand Strategy,Wants to enhance expertise in Microsoft Azure for cloud computing and deployment.,Hard Skill
+77,Garcia,john.garcia@marketingresearch.com,Coordinator,Survey Analysis,Looking for better conflict resolution strategies alongside Facebook Ads.,Soft Skill
+78,Smith,emma.smith@marketingresearch.com,Specialist,Data Analytics,"Needs to enhance customer engagement skills, integrating Miro.",Soft Skill
+79,Jones,emily.jones@marketingresearch.com,Coordinator,Survey Analysis,Interested in teamwork strategies with tools like Python.,Soft Skill
+80,Martinez,michael.martinez@marketingresearch.com,Analyst,Survey Analysis,Seeking training on communication skills and utilizing Microsoft Azure.,Soft Skill
+81,Brown,sarah.brown@marketingresearch.com,Specialist,Survey Analysis,Looking for better conflict resolution strategies alongside Facebook Ads.,Soft Skill
+82,Miller,robert.miller@marketingresearch.com,Specialist,Client Relations,Needs expertise in Unreal Engine for data analysis and visualization.,Hard Skill
+83,Miller,emma.miller@marketingresearch.com,Executive,Data Analytics,Looking for specialized knowledge in AWS for social media management.,Hard Skill
+84,Garcia,chris.garcia@marketingresearch.com,Specialist,Brand Strategy,Needs expertise in Unreal Engine for data analysis and visualization.,Hard Skill
+85,Davis,laura.davis@marketingresearch.com,Manager,Client Relations,Requires advanced training in SEMrush for automation and optimization.,Hard Skill
+86,Jones,chris.jones@marketingresearch.com,Analyst,Client Relations,Aiming to gain skills in Hootsuite for predictive analytics and machine learning.,Hard Skill
+87,Rodriguez,laura.rodriguez@marketingresearch.com,Coordinator,Client Relations,Seeking training on communication skills and utilizing Microsoft Azure.,Soft Skill
+88,Rodriguez,chris.rodriguez@marketingresearch.com,Coordinator,Client Relations,"Needs to enhance customer engagement skills, integrating Miro.",Soft Skill
+89,Davis,chris.davis@marketingresearch.com,Coordinator,Market Research,Seeks proficiency in Miro for financial modeling and forecasting.,Hard Skill
+90,Johnson,michael.johnson@marketingresearch.com,Coordinator,Data Analytics,Interested in teamwork strategies with tools like Python.,Soft Skill
+91,Miller,michael.miller@marketingresearch.com,Executive,Client Relations,Aiming to gain skills in Hootsuite for predictive analytics and machine learning.,Hard Skill
+92,Smith,emma.smith@marketingresearch.com,Analyst,Data Analytics,Seeks proficiency in Miro for financial modeling and forecasting.,Hard Skill
+93,Davis,robert.davis@marketingresearch.com,Coordinator,Market Research,Requires advanced training in SEMrush for automation and optimization.,Hard Skill
+94,Brown,sarah.brown@marketingresearch.com,Coordinator,Data Analytics,Wants to enhance expertise in Microsoft Azure for cloud computing and deployment.,Hard Skill
+95,Jones,sarah.jones@marketingresearch.com,Specialist,Client Relations,Requires advanced training in SEMrush for automation and optimization.,Hard Skill
+96,Brown,michael.brown@marketingresearch.com,Consultant,Data Analytics,Requires emotional intelligence training to complement their knowledge of QuickBooks.,Soft Skill
+97,Miller,emily.miller@marketingresearch.com,Analyst,Brand Strategy,Requires advanced training in SEMrush for automation and optimization.,Hard Skill
+98,Garcia,chris.garcia@marketingresearch.com,Manager,Data Analytics,Interested in teamwork strategies with tools like Python.,Soft Skill
+99,Williams,sarah.williams@marketingresearch.com,Analyst,Survey Analysis,Requires emotional intelligence training to complement their knowledge of QuickBooks.,Soft Skill
+100,Rodriguez,john.rodriguez@marketingresearch.com,Coordinator,Survey Analysis,Requires advanced training in SEMrush for automation and optimization.,Hard Skill
+101,Rodriguez,david.rodriguez@marketingresearch.com,Manager,Client Relations,Requires advanced training in SEMrush for automation and optimization.,Hard Skill
+102,Williams,emily.williams@marketingresearch.com,Executive,Market Research,Wants to develop leadership skills with the help of Marketo.,Soft Skill
+103,Brown,laura.brown@marketingresearch.com,Coordinator,Client Relations,Needs hands-on experience with AWS to optimize digital campaigns.,Hard Skill
+104,Garcia,michael.garcia@marketingresearch.com,Specialist,Brand Strategy,Wants to learn Miro to improve business intelligence reporting.,Hard Skill
+105,Johnson,david.johnson@marketingresearch.com,Analyst,Market Research,Looking for specialized knowledge in AWS for social media management.,Hard Skill
+106,Johnson,robert.johnson@marketingresearch.com,Consultant,Market Research,Aims to build negotiation skills while working with SQL.,Soft Skill
+107,Miller,laura.miller@marketingresearch.com,Analyst,Client Relations,Aims to build negotiation skills while working with SQL.,Soft Skill
+108,Johnson,david.johnson@marketingresearch.com,Analyst,Market Research,Looking for better conflict resolution strategies alongside Facebook Ads.,Soft Skill
+109,Smith,emma.smith@marketingresearch.com,Specialist,Market Research,Requires advanced training in SEMrush for automation and optimization.,Hard Skill
+110,Martinez,emma.martinez@marketingresearch.com,Consultant,Client Relations,Looking for specialized knowledge in AWS for social media management.,Hard Skill
+111,Martinez,robert.martinez@marketingresearch.com,Consultant,Survey Analysis,Wants to enhance expertise in Microsoft Azure for cloud computing and deployment.,Hard Skill
+112,Smith,david.smith@marketingresearch.com,Consultant,Survey Analysis,Interested in teamwork strategies with tools like Python.,Soft Skill
+113,Miller,sarah.miller@marketingresearch.com,Coordinator,Market Research,Interested in teamwork strategies with tools like Python.,Soft Skill
+114,Miller,john.miller@marketingresearch.com,Manager,Market Research,Looking for specialized knowledge in AWS for social media management.,Hard Skill
+115,Miller,john.miller@marketingresearch.com,Coordinator,Market Research,Aiming to gain skills in Hootsuite for predictive analytics and machine learning.,Hard Skill
+116,Miller,chris.miller@marketingresearch.com,Coordinator,Market Research,Wants to enhance expertise in Microsoft Azure for cloud computing and deployment.,Hard Skill
+117,Johnson,chris.johnson@marketingresearch.com,Manager,Survey Analysis,Wants to enhance expertise in Microsoft Azure for cloud computing and deployment.,Hard Skill
+118,Davis,robert.davis@marketingresearch.com,Executive,Survey Analysis,"Needs to enhance customer engagement skills, integrating Miro.",Soft Skill
+119,Martinez,robert.martinez@marketingresearch.com,Specialist,Market Research,Looking for better conflict resolution strategies alongside Facebook Ads.,Soft Skill
+120,Johnson,emily.johnson@marketingresearch.com,Analyst,Market Research,Looking for better conflict resolution strategies alongside Facebook Ads.,Soft Skill
+121,Brown,emma.brown@marketingresearch.com,Executive,Client Relations,Aiming to gain skills in Hootsuite for predictive analytics and machine learning.,Hard Skill
+122,Davis,emma.davis@marketingresearch.com,Consultant,Client Relations,Seeks proficiency in Miro for financial modeling and forecasting.,Hard Skill
+123,Jones,emily.jones@marketingresearch.com,Consultant,Market Research,Wants to learn Miro to improve business intelligence reporting.,Hard Skill
+124,Garcia,emma.garcia@marketingresearch.com,Specialist,Brand Strategy,Seeks proficiency in Miro for financial modeling and forecasting.,Hard Skill
+125,Miller,michael.miller@marketingresearch.com,Analyst,Brand Strategy,Requires advanced training in SEMrush for automation and optimization.,Hard Skill
+126,Jones,laura.jones@marketingresearch.com,Specialist,Brand Strategy,Aims to build negotiation skills while working with SQL.,Soft Skill
+127,Williams,chris.williams@marketingresearch.com,Specialist,Client Relations,Needs to improve time management using tools like Asana.,Soft Skill
+128,Jones,david.jones@marketingresearch.com,Coordinator,Market Research,"Needs to enhance customer engagement skills, integrating Miro.",Soft Skill
+129,Brown,chris.brown@marketingresearch.com,Analyst,Brand Strategy,Needs hands-on experience with AWS to optimize digital campaigns.,Hard Skill
+130,Garcia,laura.garcia@marketingresearch.com,Analyst,Survey Analysis,Needs hands-on experience with AWS to optimize digital campaigns.,Hard Skill
+131,Smith,emma.smith@marketingresearch.com,Analyst,Survey Analysis,Seeks proficiency in Miro for financial modeling and forecasting.,Hard Skill
+132,Jones,laura.jones@marketingresearch.com,Manager,Brand Strategy,Seeks proficiency in Miro for financial modeling and forecasting.,Hard Skill
+133,Martinez,robert.martinez@marketingresearch.com,Executive,Market Research,Needs to improve time management using tools like Asana.,Soft Skill
+134,Smith,laura.smith@marketingresearch.com,Executive,Brand Strategy,Requires advanced training in SEMrush for automation and optimization.,Hard Skill
+135,Johnson,david.johnson@marketingresearch.com,Executive,Market Research,Needs hands-on experience with AWS to optimize digital campaigns.,Hard Skill
+136,Davis,john.davis@marketingresearch.com,Coordinator,Client Relations,Needs expertise in Unreal Engine for data analysis and visualization.,Hard Skill
+137,Smith,chris.smith@marketingresearch.com,Consultant,Survey Analysis,"Needs to enhance customer engagement skills, integrating Miro.",Soft Skill
+138,Jones,emma.jones@marketingresearch.com,Coordinator,Brand Strategy,Requires advanced training in SEMrush for automation and optimization.,Hard Skill
+139,Garcia,jane.garcia@marketingresearch.com,Manager,Market Research,Requires advanced training in SEMrush for automation and optimization.,Hard Skill
+140,Jones,laura.jones@marketingresearch.com,Consultant,Market Research,Looking for specialized knowledge in AWS for social media management.,Hard Skill
+141,Brown,emily.brown@marketingresearch.com,Consultant,Client Relations,Looking for better conflict resolution strategies alongside Facebook Ads.,Soft Skill
+142,Rodriguez,jane.rodriguez@marketingresearch.com,Analyst,Market Research,Wants to develop leadership skills with the help of Marketo.,Soft Skill
+143,Jones,robert.jones@marketingresearch.com,Executive,Brand Strategy,Aims to build negotiation skills while working with SQL.,Soft Skill
+144,Martinez,emily.martinez@marketingresearch.com,Executive,Brand Strategy,Looking for specialized knowledge in AWS for social media management.,Hard Skill
+145,Davis,robert.davis@marketingresearch.com,Consultant,Survey Analysis,"Needs to enhance customer engagement skills, integrating Miro.",Soft Skill
+146,Rodriguez,michael.rodriguez@marketingresearch.com,Analyst,Survey Analysis,Aims to build negotiation skills while working with SQL.,Soft Skill
+147,Brown,david.brown@marketingresearch.com,Manager,Brand Strategy,Interested in teamwork strategies with tools like Python.,Soft Skill
+148,Jones,john.jones@marketingresearch.com,Consultant,Client Relations,Wants to enhance expertise in Microsoft Azure for cloud computing and deployment.,Hard Skill
+149,Miller,laura.miller@marketingresearch.com,Consultant,Client Relations,Wants to develop leadership skills with the help of Marketo.,Soft Skill
+150,Jones,david.jones@marketingresearch.com,Analyst,Market Research,Looking for specialized knowledge in AWS for social media management.,Hard Skill
+151,Davis,chris.davis@marketingresearch.com,Consultant,Market Research,Aiming to gain skills in Hootsuite for predictive analytics and machine learning.,Hard Skill
+152,Jones,emma.jones@marketingresearch.com,Consultant,Client Relations,Requires emotional intelligence training to complement their knowledge of QuickBooks.,Soft Skill
+153,Garcia,emma.garcia@marketingresearch.com,Coordinator,Brand Strategy,Needs hands-on experience with AWS to optimize digital campaigns.,Hard Skill
+154,Williams,robert.williams@marketingresearch.com,Specialist,Brand Strategy,"Needs to enhance customer engagement skills, integrating Miro.",Soft Skill
+155,Williams,emily.williams@marketingresearch.com,Coordinator,Market Research,Wants to enhance expertise in Microsoft Azure for cloud computing and deployment.,Hard Skill
+156,Smith,jane.smith@marketingresearch.com,Coordinator,Survey Analysis,Aiming to gain skills in Hootsuite for predictive analytics and machine learning.,Hard Skill
+157,Williams,emily.williams@marketingresearch.com,Analyst,Client Relations,Seeks proficiency in Miro for financial modeling and forecasting.,Hard Skill
+158,Garcia,jane.garcia@marketingresearch.com,Specialist,Brand Strategy,Needs hands-on experience with AWS to optimize digital campaigns.,Hard Skill
+159,Johnson,david.johnson@marketingresearch.com,Specialist,Client Relations,Needs expertise in Unreal Engine for data analysis and visualization.,Hard Skill
+160,Williams,emma.williams@marketingresearch.com,Consultant,Market Research,Requires advanced training in SEMrush for automation and optimization.,Hard Skill
+161,Garcia,john.garcia@marketingresearch.com,Specialist,Survey Analysis,Aims to build negotiation skills while working with SQL.,Soft Skill
+162,Rodriguez,david.rodriguez@marketingresearch.com,Coordinator,Data Analytics,Interested in teamwork strategies with tools like Python.,Soft Skill
+163,Davis,emily.davis@marketingresearch.com,Consultant,Survey Analysis,Needs to improve time management using tools like Asana.,Soft Skill
+164,Jones,david.jones@marketingresearch.com,Executive,Survey Analysis,Needs expertise in Unreal Engine for data analysis and visualization.,Hard Skill
+165,Miller,robert.miller@marketingresearch.com,Consultant,Data Analytics,Aims to build negotiation skills while working with SQL.,Soft Skill
+166,Miller,michael.miller@marketingresearch.com,Analyst,Brand Strategy,Interested in teamwork strategies with tools like Python.,Soft Skill
+167,Martinez,emily.martinez@marketingresearch.com,Specialist,Client Relations,Looking for better conflict resolution strategies alongside Facebook Ads.,Soft Skill
+168,Miller,robert.miller@marketingresearch.com,Specialist,Client Relations,Needs hands-on experience with AWS to optimize digital campaigns.,Hard Skill
+169,Williams,robert.williams@marketingresearch.com,Analyst,Survey Analysis,Seeks proficiency in Miro for financial modeling and forecasting.,Hard Skill
+170,Brown,jane.brown@marketingresearch.com,Manager,Client Relations,Requires advanced training in SEMrush for automation and optimization.,Hard Skill
+171,Brown,emily.brown@marketingresearch.com,Executive,Data Analytics,Aims to build negotiation skills while working with SQL.,Soft Skill
+172,Davis,jane.davis@marketingresearch.com,Consultant,Market Research,Looking for better conflict resolution strategies alongside Facebook Ads.,Soft Skill
+173,Garcia,jane.garcia@marketingresearch.com,Executive,Brand Strategy,Interested in teamwork strategies with tools like Python.,Soft Skill
+174,Williams,emma.williams@marketingresearch.com,Coordinator,Data Analytics,Seeks proficiency in Miro for financial modeling and forecasting.,Hard Skill
+175,Martinez,david.martinez@marketingresearch.com,Executive,Brand Strategy,Interested in teamwork strategies with tools like Python.,Soft Skill
+176,Rodriguez,jane.rodriguez@marketingresearch.com,Executive,Data Analytics,Seeks proficiency in Miro for financial modeling and forecasting.,Hard Skill
+177,Martinez,laura.martinez@marketingresearch.com,Analyst,Survey Analysis,Requires advanced training in SEMrush for automation and optimization.,Hard Skill
+178,Smith,david.smith@marketingresearch.com,Coordinator,Market Research,Aims to build negotiation skills while working with SQL.,Soft Skill
+179,Brown,chris.brown@marketingresearch.com,Consultant,Brand Strategy,Requires emotional intelligence training to complement their knowledge of QuickBooks.,Soft Skill
+180,Garcia,robert.garcia@marketingresearch.com,Consultant,Survey Analysis,Looking for specialized knowledge in AWS for social media management.,Hard Skill
+181,Miller,emily.miller@marketingresearch.com,Executive,Brand Strategy,Wants to learn Miro to improve business intelligence reporting.,Hard Skill
+182,Jones,laura.jones@marketingresearch.com,Analyst,Client Relations,Wants to develop leadership skills with the help of Marketo.,Soft Skill
+183,Garcia,sarah.garcia@marketingresearch.com,Consultant,Brand Strategy,Needs hands-on experience with AWS to optimize digital campaigns.,Hard Skill
+184,Davis,robert.davis@marketingresearch.com,Manager,Data Analytics,Looking for better conflict resolution strategies alongside Facebook Ads.,Soft Skill
+185,Miller,laura.miller@marketingresearch.com,Manager,Survey Analysis,Interested in teamwork strategies with tools like Python.,Soft Skill
+186,Rodriguez,emily.rodriguez@marketingresearch.com,Specialist,Survey Analysis,Aiming to gain skills in Hootsuite for predictive analytics and machine learning.,Hard Skill
+187,Smith,robert.smith@marketingresearch.com,Coordinator,Brand Strategy,Needs to improve time management using tools like Asana.,Soft Skill
+188,Martinez,michael.martinez@marketingresearch.com,Manager,Client Relations,Requires advanced training in SEMrush for automation and optimization.,Hard Skill
+189,Davis,john.davis@marketingresearch.com,Analyst,Data Analytics,Looking for specialized knowledge in AWS for social media management.,Hard Skill
+190,Martinez,chris.martinez@marketingresearch.com,Manager,Brand Strategy,Requires advanced training in SEMrush for automation and optimization.,Hard Skill
+191,Miller,jane.miller@marketingresearch.com,Analyst,Client Relations,Seeking training on communication skills and utilizing Microsoft Azure.,Soft Skill
+192,Martinez,laura.martinez@marketingresearch.com,Executive,Survey Analysis,Seeking training on communication skills and utilizing Microsoft Azure.,Soft Skill
+193,Williams,david.williams@marketingresearch.com,Coordinator,Client Relations,Looking for better conflict resolution strategies alongside Facebook Ads.,Soft Skill
+194,Rodriguez,robert.rodriguez@marketingresearch.com,Manager,Survey Analysis,Needs to improve time management using tools like Asana.,Soft Skill
+195,Garcia,emily.garcia@marketingresearch.com,Manager,Data Analytics,Wants to learn Miro to improve business intelligence reporting.,Hard Skill
+196,Rodriguez,laura.rodriguez@marketingresearch.com,Executive,Data Analytics,"Needs to enhance customer engagement skills, integrating Miro.",Soft Skill
+197,Jones,emily.jones@marketingresearch.com,Coordinator,Brand Strategy,Interested in teamwork strategies with tools like Python.,Soft Skill
+198,Garcia,laura.garcia@marketingresearch.com,Specialist,Survey Analysis,Seeks proficiency in Miro for financial modeling and forecasting.,Hard Skill
+199,Garcia,jane.garcia@marketingresearch.com,Consultant,Brand Strategy,Looking for specialized knowledge in AWS for social media management.,Hard Skill
+200,Miller,sarah.miller@marketingresearch.com,Coordinator,Client Relations,Needs hands-on experience with AWS to optimize digital campaigns.,Hard Skill
+201,Brown,robert.brown@marketingresearch.com,Coordinator,Survey Analysis,Needs hands-on experience with AWS to optimize digital campaigns.,Hard Skill
+202,Miller,jane.miller@marketingresearch.com,Executive,Brand Strategy,Wants to enhance expertise in Microsoft Azure for cloud computing and deployment.,Hard Skill
+203,Martinez,robert.martinez@marketingresearch.com,Manager,Brand Strategy,Wants to enhance expertise in Microsoft Azure for cloud computing and deployment.,Hard Skill
+204,Smith,emily.smith@marketingresearch.com,Specialist,Brand Strategy,Needs expertise in Unreal Engine for data analysis and visualization.,Hard Skill
+205,Miller,david.miller@marketingresearch.com,Coordinator,Data Analytics,Aiming to gain skills in Hootsuite for predictive analytics and machine learning.,Hard Skill
+206,Williams,sarah.williams@marketingresearch.com,Coordinator,Market Research,Requires advanced training in SEMrush for automation and optimization.,Hard Skill
+207,Johnson,emma.johnson@marketingresearch.com,Executive,Client Relations,Looking for better conflict resolution strategies alongside Facebook Ads.,Soft Skill
+208,Jones,emily.jones@marketingresearch.com,Manager,Brand Strategy,Interested in teamwork strategies with tools like Python.,Soft Skill
+209,Williams,michael.williams@marketingresearch.com,Manager,Data Analytics,Looking for better conflict resolution strategies alongside Facebook Ads.,Soft Skill
+210,Davis,laura.davis@marketingresearch.com,Manager,Client Relations,Seeks proficiency in Miro for financial modeling and forecasting.,Hard Skill
+211,Miller,david.miller@marketingresearch.com,Manager,Client Relations,Wants to enhance expertise in Microsoft Azure for cloud computing and deployment.,Hard Skill
+212,Brown,chris.brown@marketingresearch.com,Consultant,Data Analytics,Aims to build negotiation skills while working with SQL.,Soft Skill
+213,Martinez,chris.martinez@marketingresearch.com,Coordinator,Survey Analysis,Requires advanced training in SEMrush for automation and optimization.,Hard Skill
+214,Miller,john.miller@marketingresearch.com,Consultant,Survey Analysis,"Needs to enhance customer engagement skills, integrating Miro.",Soft Skill
+215,Jones,david.jones@marketingresearch.com,Specialist,Brand Strategy,Requires emotional intelligence training to complement their knowledge of QuickBooks.,Soft Skill
+216,Davis,jane.davis@marketingresearch.com,Consultant,Client Relations,Needs to improve time management using tools like Asana.,Soft Skill
+217,Martinez,laura.martinez@marketingresearch.com,Manager,Data Analytics,Looking for specialized knowledge in AWS for social media management.,Hard Skill
+218,Garcia,chris.garcia@marketingresearch.com,Analyst,Brand Strategy,Seeking training on communication skills and utilizing Microsoft Azure.,Soft Skill
+219,Martinez,sarah.martinez@marketingresearch.com,Consultant,Data Analytics,Seeks proficiency in Miro for financial modeling and forecasting.,Hard Skill
+220,Garcia,emma.garcia@marketingresearch.com,Consultant,Client Relations,Aims to build negotiation skills while working with SQL.,Soft Skill
+221,Miller,chris.miller@marketingresearch.com,Analyst,Brand Strategy,Requires advanced training in SEMrush for automation and optimization.,Hard Skill
+222,Johnson,john.johnson@marketingresearch.com,Consultant,Brand Strategy,Wants to develop leadership skills with the help of Marketo.,Soft Skill
+223,Davis,john.davis@marketingresearch.com,Specialist,Market Research,Wants to learn Miro to improve business intelligence reporting.,Hard Skill
+224,Miller,laura.miller@marketingresearch.com,Consultant,Survey Analysis,Seeks proficiency in Miro for financial modeling and forecasting.,Hard Skill
+225,Miller,sarah.miller@marketingresearch.com,Specialist,Survey Analysis,Needs hands-on experience with AWS to optimize digital campaigns.,Hard Skill
+226,Miller,laura.miller@marketingresearch.com,Manager,Survey Analysis,Needs expertise in Unreal Engine for data analysis and visualization.,Hard Skill
+227,Johnson,david.johnson@marketingresearch.com,Executive,Client Relations,Needs hands-on experience with AWS to optimize digital campaigns.,Hard Skill
+228,Johnson,chris.johnson@marketingresearch.com,Manager,Data Analytics,Wants to develop leadership skills with the help of Marketo.,Soft Skill
+229,Miller,michael.miller@marketingresearch.com,Executive,Survey Analysis,Wants to learn Miro to improve business intelligence reporting.,Hard Skill
+230,Smith,jane.smith@marketingresearch.com,Coordinator,Client Relations,Requires advanced training in SEMrush for automation and optimization.,Hard Skill
+231,Johnson,sarah.johnson@marketingresearch.com,Analyst,Data Analytics,Wants to develop leadership skills with the help of Marketo.,Soft Skill
+232,Johnson,laura.johnson@marketingresearch.com,Consultant,Survey Analysis,Seeks proficiency in Miro for financial modeling and forecasting.,Hard Skill
+233,Miller,laura.miller@marketingresearch.com,Analyst,Survey Analysis,Interested in teamwork strategies with tools like Python.,Soft Skill
+234,Jones,michael.jones@marketingresearch.com,Consultant,Survey Analysis,Needs to improve time management using tools like Asana.,Soft Skill
+235,Rodriguez,emma.rodriguez@marketingresearch.com,Executive,Brand Strategy,Needs expertise in Unreal Engine for data analysis and visualization.,Hard Skill
+236,Garcia,emma.garcia@marketingresearch.com,Manager,Client Relations,Wants to enhance expertise in Microsoft Azure for cloud computing and deployment.,Hard Skill
+237,Brown,laura.brown@marketingresearch.com,Consultant,Survey Analysis,Wants to learn Miro to improve business intelligence reporting.,Hard Skill
+238,Johnson,david.johnson@marketingresearch.com,Analyst,Client Relations,Looking for specialized knowledge in AWS for social media management.,Hard Skill
+239,Davis,michael.davis@marketingresearch.com,Manager,Client Relations,Seeking training on communication skills and utilizing Microsoft Azure.,Soft Skill
+240,Davis,michael.davis@marketingresearch.com,Manager,Data Analytics,Wants to learn Miro to improve business intelligence reporting.,Hard Skill
+241,Brown,david.brown@marketingresearch.com,Coordinator,Market Research,Requires emotional intelligence training to complement their knowledge of QuickBooks.,Soft Skill
+242,Jones,john.jones@marketingresearch.com,Analyst,Client Relations,Seeking training on communication skills and utilizing Microsoft Azure.,Soft Skill
+243,Brown,david.brown@marketingresearch.com,Specialist,Survey Analysis,Seeks proficiency in Miro for financial modeling and forecasting.,Hard Skill
+244,Williams,robert.williams@marketingresearch.com,Analyst,Survey Analysis,Seeks proficiency in Miro for financial modeling and forecasting.,Hard Skill
+245,Jones,sarah.jones@marketingresearch.com,Coordinator,Data Analytics,Wants to develop leadership skills with the help of Marketo.,Soft Skill
+246,Martinez,emily.martinez@marketingresearch.com,Manager,Survey Analysis,Requires advanced training in SEMrush for automation and optimization.,Hard Skill
+247,Brown,chris.brown@marketingresearch.com,Consultant,Survey Analysis,Needs to improve time management using tools like Asana.,Soft Skill
+248,Brown,laura.brown@marketingresearch.com,Specialist,Market Research,Seeks proficiency in Miro for financial modeling and forecasting.,Hard Skill
+249,Rodriguez,emma.rodriguez@marketingresearch.com,Specialist,Brand Strategy,Requires emotional intelligence training to complement their knowledge of QuickBooks.,Soft Skill
+250,Williams,chris.williams@marketingresearch.com,Coordinator,Market Research,Looking for specialized knowledge in AWS for social media management.,Hard Skill
+251,Jones,laura.jones@marketingresearch.com,Specialist,Brand Strategy,"Needs to enhance customer engagement skills, integrating Miro.",Soft Skill
+252,Rodriguez,john.rodriguez@marketingresearch.com,Manager,Market Research,Looking for specialized knowledge in AWS for social media management.,Hard Skill
+253,Garcia,laura.garcia@marketingresearch.com,Executive,Brand Strategy,Interested in teamwork strategies with tools like Python.,Soft Skill
+254,Johnson,emily.johnson@marketingresearch.com,Manager,Market Research,Seeks proficiency in Miro for financial modeling and forecasting.,Hard Skill
+255,Smith,john.smith@marketingresearch.com,Consultant,Brand Strategy,"Needs to enhance customer engagement skills, integrating Miro.",Soft Skill
+256,Garcia,emma.garcia@marketingresearch.com,Executive,Client Relations,Needs expertise in Unreal Engine for data analysis and visualization.,Hard Skill
+257,Williams,jane.williams@marketingresearch.com,Specialist,Survey Analysis,Looking for specialized knowledge in AWS for social media management.,Hard Skill
+258,Brown,john.brown@marketingresearch.com,Manager,Market Research,Needs to improve time management using tools like Asana.,Soft Skill
+259,Smith,david.smith@marketingresearch.com,Specialist,Data Analytics,Requires emotional intelligence training to complement their knowledge of QuickBooks.,Soft Skill
+260,Miller,michael.miller@marketingresearch.com,Executive,Survey Analysis,Needs expertise in Unreal Engine for data analysis and visualization.,Hard Skill
+261,Miller,john.miller@marketingresearch.com,Manager,Data Analytics,Interested in teamwork strategies with tools like Python.,Soft Skill
+262,Davis,david.davis@marketingresearch.com,Coordinator,Client Relations,Aiming to gain skills in Hootsuite for predictive analytics and machine learning.,Hard Skill
+263,Garcia,robert.garcia@marketingresearch.com,Specialist,Data Analytics,Seeks proficiency in Miro for financial modeling and forecasting.,Hard Skill
+264,Johnson,jane.johnson@marketingresearch.com,Executive,Client Relations,Requires advanced training in SEMrush for automation and optimization.,Hard Skill
+265,Jones,robert.jones@marketingresearch.com,Specialist,Data Analytics,Aims to build negotiation skills while working with SQL.,Soft Skill
+266,Brown,michael.brown@marketingresearch.com,Coordinator,Market Research,Looking for specialized knowledge in AWS for social media management.,Hard Skill
+267,Brown,john.brown@marketingresearch.com,Executive,Survey Analysis,Wants to enhance expertise in Microsoft Azure for cloud computing and deployment.,Hard Skill
+268,Brown,emily.brown@marketingresearch.com,Consultant,Survey Analysis,Aims to build negotiation skills while working with SQL.,Soft Skill
+269,Davis,john.davis@marketingresearch.com,Executive,Market Research,Needs hands-on experience with AWS to optimize digital campaigns.,Hard Skill
+270,Garcia,robert.garcia@marketingresearch.com,Consultant,Data Analytics,"Needs to enhance customer engagement skills, integrating Miro.",Soft Skill
+271,Johnson,jane.johnson@marketingresearch.com,Executive,Market Research,Looking for specialized knowledge in AWS for social media management.,Hard Skill
+272,Johnson,david.johnson@marketingresearch.com,Executive,Client Relations,Needs to improve time management using tools like Asana.,Soft Skill
+273,Martinez,emily.martinez@marketingresearch.com,Specialist,Survey Analysis,Wants to enhance expertise in Microsoft Azure for cloud computing and deployment.,Hard Skill
+274,Johnson,laura.johnson@marketingresearch.com,Coordinator,Data Analytics,Aims to build negotiation skills while working with SQL.,Soft Skill
+275,Martinez,emma.martinez@marketingresearch.com,Specialist,Brand Strategy,Needs to improve time management using tools like Asana.,Soft Skill
+276,Jones,emily.jones@marketingresearch.com,Coordinator,Client Relations,Needs expertise in Unreal Engine for data analysis and visualization.,Hard Skill
+277,Jones,jane.jones@marketingresearch.com,Executive,Brand Strategy,Needs to improve time management using tools like Asana.,Soft Skill
+278,Johnson,sarah.johnson@marketingresearch.com,Consultant,Client Relations,Looking for better conflict resolution strategies alongside Facebook Ads.,Soft Skill
+279,Garcia,laura.garcia@marketingresearch.com,Executive,Data Analytics,Seeks proficiency in Miro for financial modeling and forecasting.,Hard Skill
+280,Rodriguez,laura.rodriguez@marketingresearch.com,Manager,Client Relations,Requires emotional intelligence training to complement their knowledge of QuickBooks.,Soft Skill
+281,Martinez,emma.martinez@marketingresearch.com,Consultant,Survey Analysis,Aims to build negotiation skills while working with SQL.,Soft Skill
+282,Jones,emily.jones@marketingresearch.com,Analyst,Market Research,Wants to develop leadership skills with the help of Marketo.,Soft Skill
+283,Martinez,chris.martinez@marketingresearch.com,Coordinator,Survey Analysis,Wants to develop leadership skills with the help of Marketo.,Soft Skill
+284,Jones,david.jones@marketingresearch.com,Manager,Client Relations,Needs to improve time management using tools like Asana.,Soft Skill
+285,Williams,chris.williams@marketingresearch.com,Analyst,Client Relations,Looking for specialized knowledge in AWS for social media management.,Hard Skill
+286,Davis,david.davis@marketingresearch.com,Consultant,Market Research,"Needs to enhance customer engagement skills, integrating Miro.",Soft Skill
+287,Rodriguez,robert.rodriguez@marketingresearch.com,Coordinator,Client Relations,Looking for better conflict resolution strategies alongside Facebook Ads.,Soft Skill
+288,Jones,emily.jones@marketingresearch.com,Specialist,Market Research,Seeking training on communication skills and utilizing Microsoft Azure.,Soft Skill
+289,Williams,chris.williams@marketingresearch.com,Manager,Data Analytics,Seeks proficiency in Miro for financial modeling and forecasting.,Hard Skill
+290,Williams,robert.williams@marketingresearch.com,Consultant,Market Research,"Needs to enhance customer engagement skills, integrating Miro.",Soft Skill
+291,Davis,chris.davis@marketingresearch.com,Coordinator,Market Research,Needs hands-on experience with AWS to optimize digital campaigns.,Hard Skill
+292,Miller,chris.miller@marketingresearch.com,Consultant,Survey Analysis,Needs expertise in Unreal Engine for data analysis and visualization.,Hard Skill
+293,Martinez,michael.martinez@marketingresearch.com,Consultant,Brand Strategy,"Needs to enhance customer engagement skills, integrating Miro.",Soft Skill
+294,Jones,robert.jones@marketingresearch.com,Analyst,Survey Analysis,Aims to build negotiation skills while working with SQL.,Soft Skill
+295,Miller,laura.miller@marketingresearch.com,Specialist,Client Relations,Interested in teamwork strategies with tools like Python.,Soft Skill
+296,Rodriguez,emily.rodriguez@marketingresearch.com,Specialist,Data Analytics,Needs hands-on experience with AWS to optimize digital campaigns.,Hard Skill
+297,Garcia,emma.garcia@marketingresearch.com,Consultant,Brand Strategy,Looking for specialized knowledge in AWS for social media management.,Hard Skill
+298,Garcia,david.garcia@marketingresearch.com,Consultant,Client Relations,Wants to develop leadership skills with the help of Marketo.,Soft Skill
+299,Johnson,john.johnson@marketingresearch.com,Coordinator,Brand Strategy,Seeking training on communication skills and utilizing Microsoft Azure.,Soft Skill
+300,Davis,michael.davis@marketingresearch.com,Executive,Brand Strategy,Seeks proficiency in Miro for financial modeling and forecasting.,Hard Skill
+301,Williams,jane.williams@marketingresearch.com,Coordinator,Market Research,Aiming to gain skills in Hootsuite for predictive analytics and machine learning.,Hard Skill
+302,Brown,chris.brown@marketingresearch.com,Executive,Data Analytics,Interested in teamwork strategies with tools like Python.,Soft Skill
+303,Brown,chris.brown@marketingresearch.com,Manager,Market Research,Interested in teamwork strategies with tools like Python.,Soft Skill
+304,Smith,sarah.smith@marketingresearch.com,Executive,Client Relations,Seeking training on communication skills and utilizing Microsoft Azure.,Soft Skill
+305,Jones,sarah.jones@marketingresearch.com,Coordinator,Survey Analysis,Aims to build negotiation skills while working with SQL.,Soft Skill
+306,Garcia,robert.garcia@marketingresearch.com,Executive,Brand Strategy,Needs hands-on experience with AWS to optimize digital campaigns.,Hard Skill
+307,Davis,chris.davis@marketingresearch.com,Specialist,Survey Analysis,Seeking training on communication skills and utilizing Microsoft Azure.,Soft Skill
+308,Garcia,chris.garcia@marketingresearch.com,Manager,Market Research,Requires advanced training in SEMrush for automation and optimization.,Hard Skill
+309,Martinez,sarah.martinez@marketingresearch.com,Consultant,Survey Analysis,Aims to build negotiation skills while working with SQL.,Soft Skill
+310,Brown,sarah.brown@marketingresearch.com,Executive,Client Relations,Seeking training on communication skills and utilizing Microsoft Azure.,Soft Skill
+311,Williams,emma.williams@marketingresearch.com,Consultant,Data Analytics,Looking for specialized knowledge in AWS for social media management.,Hard Skill
+312,Davis,david.davis@marketingresearch.com,Executive,Data Analytics,Wants to enhance expertise in Microsoft Azure for cloud computing and deployment.,Hard Skill
+313,Miller,david.miller@marketingresearch.com,Analyst,Data Analytics,Needs expertise in Unreal Engine for data analysis and visualization.,Hard Skill
+314,Rodriguez,emily.rodriguez@marketingresearch.com,Specialist,Survey Analysis,Seeks proficiency in Miro for financial modeling and forecasting.,Hard Skill
+315,Smith,chris.smith@marketingresearch.com,Manager,Data Analytics,Requires emotional intelligence training to complement their knowledge of QuickBooks.,Soft Skill
+316,Davis,john.davis@marketingresearch.com,Manager,Data Analytics,Seeks proficiency in Miro for financial modeling and forecasting.,Hard Skill
+317,Smith,john.smith@marketingresearch.com,Coordinator,Market Research,Needs hands-on experience with AWS to optimize digital campaigns.,Hard Skill
+318,Davis,john.davis@marketingresearch.com,Specialist,Data Analytics,Wants to learn Miro to improve business intelligence reporting.,Hard Skill
+319,Johnson,david.johnson@marketingresearch.com,Coordinator,Client Relations,Aims to build negotiation skills while working with SQL.,Soft Skill
+320,Smith,david.smith@marketingresearch.com,Analyst,Survey Analysis,Wants to enhance expertise in Microsoft Azure for cloud computing and deployment.,Hard Skill
+321,Brown,john.brown@marketingresearch.com,Coordinator,Client Relations,Aims to build negotiation skills while working with SQL.,Soft Skill
+322,Martinez,laura.martinez@marketingresearch.com,Consultant,Client Relations,"Needs to enhance customer engagement skills, integrating Miro.",Soft Skill
+323,Rodriguez,john.rodriguez@marketingresearch.com,Analyst,Brand Strategy,Needs expertise in Unreal Engine for data analysis and visualization.,Hard Skill
+324,Garcia,jane.garcia@marketingresearch.com,Executive,Client Relations,Needs to improve time management using tools like Asana.,Soft Skill
+325,Garcia,chris.garcia@marketingresearch.com,Analyst,Brand Strategy,Looking for specialized knowledge in AWS for social media management.,Hard Skill
+326,Davis,robert.davis@marketingresearch.com,Consultant,Client Relations,Looking for better conflict resolution strategies alongside Facebook Ads.,Soft Skill
+327,Jones,john.jones@marketingresearch.com,Analyst,Market Research,Needs hands-on experience with AWS to optimize digital campaigns.,Hard Skill
+328,Miller,sarah.miller@marketingresearch.com,Manager,Market Research,Looking for better conflict resolution strategies alongside Facebook Ads.,Soft Skill
+329,Johnson,michael.johnson@marketingresearch.com,Consultant,Brand Strategy,Seeking training on communication skills and utilizing Microsoft Azure.,Soft Skill
+330,Johnson,john.johnson@marketingresearch.com,Manager,Brand Strategy,Looking for specialized knowledge in AWS for social media management.,Hard Skill
+331,Davis,robert.davis@marketingresearch.com,Analyst,Market Research,Requires emotional intelligence training to complement their knowledge of QuickBooks.,Soft Skill
+332,Martinez,robert.martinez@marketingresearch.com,Analyst,Client Relations,Seeking training on communication skills and utilizing Microsoft Azure.,Soft Skill
+333,Davis,emma.davis@marketingresearch.com,Specialist,Brand Strategy,"Needs to enhance customer engagement skills, integrating Miro.",Soft Skill
+334,Miller,robert.miller@marketingresearch.com,Executive,Survey Analysis,Seeking training on communication skills and utilizing Microsoft Azure.,Soft Skill
+335,Martinez,sarah.martinez@marketingresearch.com,Coordinator,Brand Strategy,Looking for specialized knowledge in AWS for social media management.,Hard Skill
+336,Smith,emma.smith@marketingresearch.com,Executive,Survey Analysis,Wants to develop leadership skills with the help of Marketo.,Soft Skill
+337,Brown,david.brown@marketingresearch.com,Analyst,Brand Strategy,Aiming to gain skills in Hootsuite for predictive analytics and machine learning.,Hard Skill
+338,Rodriguez,robert.rodriguez@marketingresearch.com,Executive,Survey Analysis,Wants to enhance expertise in Microsoft Azure for cloud computing and deployment.,Hard Skill
+339,Johnson,sarah.johnson@marketingresearch.com,Coordinator,Market Research,Aims to build negotiation skills while working with SQL.,Soft Skill
+340,Martinez,michael.martinez@marketingresearch.com,Manager,Brand Strategy,Seeking training on communication skills and utilizing Microsoft Azure.,Soft Skill
+341,Jones,jane.jones@marketingresearch.com,Consultant,Market Research,Needs to improve time management using tools like Asana.,Soft Skill
+342,Smith,emma.smith@marketingresearch.com,Coordinator,Client Relations,Requires emotional intelligence training to complement their knowledge of QuickBooks.,Soft Skill
+343,Jones,emily.jones@marketingresearch.com,Coordinator,Brand Strategy,Looking for better conflict resolution strategies alongside Facebook Ads.,Soft Skill
+344,Williams,john.williams@marketingresearch.com,Executive,Client Relations,Requires emotional intelligence training to complement their knowledge of QuickBooks.,Soft Skill
+345,Garcia,sarah.garcia@marketingresearch.com,Coordinator,Data Analytics,Needs hands-on experience with AWS to optimize digital campaigns.,Hard Skill
+346,Garcia,david.garcia@marketingresearch.com,Specialist,Data Analytics,Needs to improve time management using tools like Asana.,Soft Skill
+347,Smith,michael.smith@marketingresearch.com,Analyst,Client Relations,"Needs to enhance customer engagement skills, integrating Miro.",Soft Skill
+348,Brown,sarah.brown@marketingresearch.com,Consultant,Brand Strategy,Needs to improve time management using tools like Asana.,Soft Skill
+349,Rodriguez,jane.rodriguez@marketingresearch.com,Manager,Survey Analysis,"Needs to enhance customer engagement skills, integrating Miro.",Soft Skill
+350,Jones,robert.jones@marketingresearch.com,Manager,Brand Strategy,Wants to develop leadership skills with the help of Marketo.,Soft Skill
+351,Garcia,emma.garcia@marketingresearch.com,Executive,Data Analytics,Aims to build negotiation skills while working with SQL.,Soft Skill
+352,Rodriguez,chris.rodriguez@marketingresearch.com,Coordinator,Market Research,Seeking training on communication skills and utilizing Microsoft Azure.,Soft Skill
+353,Miller,robert.miller@marketingresearch.com,Specialist,Brand Strategy,Needs expertise in Unreal Engine for data analysis and visualization.,Hard Skill
+354,Rodriguez,emma.rodriguez@marketingresearch.com,Manager,Brand Strategy,Aims to build negotiation skills while working with SQL.,Soft Skill
+355,Rodriguez,michael.rodriguez@marketingresearch.com,Executive,Market Research,Interested in teamwork strategies with tools like Python.,Soft Skill
+356,Rodriguez,john.rodriguez@marketingresearch.com,Manager,Survey Analysis,Wants to enhance expertise in Microsoft Azure for cloud computing and deployment.,Hard Skill
+357,Johnson,laura.johnson@marketingresearch.com,Manager,Data Analytics,Needs to improve time management using tools like Asana.,Soft Skill
+358,Brown,robert.brown@marketingresearch.com,Analyst,Survey Analysis,Aiming to gain skills in Hootsuite for predictive analytics and machine learning.,Hard Skill
+359,Rodriguez,sarah.rodriguez@marketingresearch.com,Manager,Survey Analysis,Seeking training on communication skills and utilizing Microsoft Azure.,Soft Skill
+360,Garcia,laura.garcia@marketingresearch.com,Analyst,Client Relations,"Needs to enhance customer engagement skills, integrating Miro.",Soft Skill
+361,Davis,robert.davis@marketingresearch.com,Analyst,Data Analytics,Wants to develop leadership skills with the help of Marketo.,Soft Skill
+362,Rodriguez,michael.rodriguez@marketingresearch.com,Executive,Survey Analysis,Needs hands-on experience with AWS to optimize digital campaigns.,Hard Skill
+363,Williams,emma.williams@marketingresearch.com,Executive,Market Research,Requires advanced training in SEMrush for automation and optimization.,Hard Skill
+364,Garcia,emma.garcia@marketingresearch.com,Analyst,Client Relations,Requires emotional intelligence training to complement their knowledge of QuickBooks.,Soft Skill
+365,Miller,robert.miller@marketingresearch.com,Consultant,Client Relations,Aims to build negotiation skills while working with SQL.,Soft Skill
+366,Williams,emma.williams@marketingresearch.com,Specialist,Survey Analysis,Requires advanced training in SEMrush for automation and optimization.,Hard Skill
+367,Rodriguez,robert.rodriguez@marketingresearch.com,Specialist,Market Research,Wants to enhance expertise in Microsoft Azure for cloud computing and deployment.,Hard Skill
+368,Johnson,sarah.johnson@marketingresearch.com,Consultant,Data Analytics,"Needs to enhance customer engagement skills, integrating Miro.",Soft Skill
+369,Jones,john.jones@marketingresearch.com,Executive,Brand Strategy,Seeking training on communication skills and utilizing Microsoft Azure.,Soft Skill
+370,Martinez,laura.martinez@marketingresearch.com,Coordinator,Brand Strategy,"Needs to enhance customer engagement skills, integrating Miro.",Soft Skill
+371,Brown,robert.brown@marketingresearch.com,Consultant,Data Analytics,Seeks proficiency in Miro for financial modeling and forecasting.,Hard Skill
+372,Smith,emma.smith@marketingresearch.com,Specialist,Data Analytics,Needs expertise in Unreal Engine for data analysis and visualization.,Hard Skill
+373,Garcia,michael.garcia@marketingresearch.com,Consultant,Market Research,Wants to enhance expertise in Microsoft Azure for cloud computing and deployment.,Hard Skill
+374,Martinez,robert.martinez@marketingresearch.com,Manager,Market Research,Needs to improve time management using tools like Asana.,Soft Skill
+375,Johnson,michael.johnson@marketingresearch.com,Manager,Brand Strategy,"Needs to enhance customer engagement skills, integrating Miro.",Soft Skill
+376,Brown,laura.brown@marketingresearch.com,Consultant,Data Analytics,Wants to learn Miro to improve business intelligence reporting.,Hard Skill
+377,Garcia,sarah.garcia@marketingresearch.com,Analyst,Survey Analysis,Aiming to gain skills in Hootsuite for predictive analytics and machine learning.,Hard Skill
+378,Williams,chris.williams@marketingresearch.com,Coordinator,Data Analytics,Seeking training on communication skills and utilizing Microsoft Azure.,Soft Skill
+379,Rodriguez,sarah.rodriguez@marketingresearch.com,Analyst,Client Relations,Requires advanced training in SEMrush for automation and optimization.,Hard Skill
+380,Davis,laura.davis@marketingresearch.com,Specialist,Brand Strategy,Requires emotional intelligence training to complement their knowledge of QuickBooks.,Soft Skill
+381,Brown,robert.brown@marketingresearch.com,Coordinator,Data Analytics,Needs expertise in Unreal Engine for data analysis and visualization.,Hard Skill
+382,Brown,john.brown@marketingresearch.com,Manager,Data Analytics,Looking for specialized knowledge in AWS for social media management.,Hard Skill
+383,Rodriguez,sarah.rodriguez@marketingresearch.com,Coordinator,Brand Strategy,Needs hands-on experience with AWS to optimize digital campaigns.,Hard Skill
+384,Garcia,emily.garcia@marketingresearch.com,Specialist,Client Relations,Looking for specialized knowledge in AWS for social media management.,Hard Skill
+385,Davis,jane.davis@marketingresearch.com,Manager,Data Analytics,Wants to learn Miro to improve business intelligence reporting.,Hard Skill
+386,Rodriguez,jane.rodriguez@marketingresearch.com,Specialist,Survey Analysis,Wants to learn Miro to improve business intelligence reporting.,Hard Skill
+387,Davis,emily.davis@marketingresearch.com,Manager,Data Analytics,Needs expertise in Unreal Engine for data analysis and visualization.,Hard Skill
+388,Rodriguez,jane.rodriguez@marketingresearch.com,Analyst,Brand Strategy,Wants to develop leadership skills with the help of Marketo.,Soft Skill
+389,Brown,emily.brown@marketingresearch.com,Manager,Survey Analysis,Aims to build negotiation skills while working with SQL.,Soft Skill
+390,Garcia,david.garcia@marketingresearch.com,Coordinator,Data Analytics,Aims to build negotiation skills while working with SQL.,Soft Skill
+391,Jones,david.jones@marketingresearch.com,Executive,Client Relations,Looking for better conflict resolution strategies alongside Facebook Ads.,Soft Skill
+392,Davis,robert.davis@marketingresearch.com,Analyst,Survey Analysis,Wants to develop leadership skills with the help of Marketo.,Soft Skill
+393,Miller,emily.miller@marketingresearch.com,Analyst,Survey Analysis,Looking for better conflict resolution strategies alongside Facebook Ads.,Soft Skill
+394,Johnson,emma.johnson@marketingresearch.com,Executive,Survey Analysis,Needs to improve time management using tools like Asana.,Soft Skill
+395,Miller,laura.miller@marketingresearch.com,Manager,Brand Strategy,Looking for specialized knowledge in AWS for social media management.,Hard Skill
+396,Brown,david.brown@marketingresearch.com,Consultant,Client Relations,Wants to learn Miro to improve business intelligence reporting.,Hard Skill
+397,Davis,john.davis@marketingresearch.com,Executive,Brand Strategy,Wants to learn Miro to improve business intelligence reporting.,Hard Skill
+398,Davis,jane.davis@marketingresearch.com,Specialist,Client Relations,Looking for specialized knowledge in AWS for social media management.,Hard Skill
+399,Miller,chris.miller@marketingresearch.com,Analyst,Client Relations,Wants to learn Miro to improve business intelligence reporting.,Hard Skill
+400,Williams,robert.williams@marketingresearch.com,Consultant,Market Research,Aiming to gain skills in Hootsuite for predictive analytics and machine learning.,Hard Skill
+401,Martinez,john.martinez@marketingresearch.com,Consultant,Brand Strategy,"Needs to enhance customer engagement skills, integrating Miro.",Soft Skill
+402,Martinez,john.martinez@marketingresearch.com,Analyst,Client Relations,Wants to develop leadership skills with the help of Marketo.,Soft Skill
+403,Williams,john.williams@marketingresearch.com,Analyst,Client Relations,Seeking training on communication skills and utilizing Microsoft Azure.,Soft Skill
+404,Martinez,john.martinez@marketingresearch.com,Coordinator,Market Research,Wants to learn Miro to improve business intelligence reporting.,Hard Skill
+405,Smith,jane.smith@marketingresearch.com,Coordinator,Data Analytics,Looking for specialized knowledge in AWS for social media management.,Hard Skill
+406,Davis,laura.davis@marketingresearch.com,Consultant,Brand Strategy,Needs expertise in Unreal Engine for data analysis and visualization.,Hard Skill
+407,Smith,emily.smith@marketingresearch.com,Coordinator,Market Research,Wants to enhance expertise in Microsoft Azure for cloud computing and deployment.,Hard Skill
+408,Smith,robert.smith@marketingresearch.com,Specialist,Market Research,"Needs to enhance customer engagement skills, integrating Miro.",Soft Skill
+409,Rodriguez,robert.rodriguez@marketingresearch.com,Coordinator,Survey Analysis,Interested in teamwork strategies with tools like Python.,Soft Skill
+410,Brown,emma.brown@marketingresearch.com,Specialist,Client Relations,Seeking training on communication skills and utilizing Microsoft Azure.,Soft Skill
+411,Garcia,robert.garcia@marketingresearch.com,Manager,Market Research,Seeks proficiency in Miro for financial modeling and forecasting.,Hard Skill
+412,Jones,chris.jones@marketingresearch.com,Manager,Client Relations,Aims to build negotiation skills while working with SQL.,Soft Skill
+413,Rodriguez,john.rodriguez@marketingresearch.com,Coordinator,Survey Analysis,Wants to develop leadership skills with the help of Marketo.,Soft Skill
+414,Jones,sarah.jones@marketingresearch.com,Manager,Survey Analysis,Looking for better conflict resolution strategies alongside Facebook Ads.,Soft Skill
+415,Johnson,emma.johnson@marketingresearch.com,Coordinator,Survey Analysis,Needs hands-on experience with AWS to optimize digital campaigns.,Hard Skill
+416,Jones,michael.jones@marketingresearch.com,Coordinator,Brand Strategy,Needs hands-on experience with AWS to optimize digital campaigns.,Hard Skill
+417,Miller,emma.miller@marketingresearch.com,Manager,Market Research,Needs expertise in Unreal Engine for data analysis and visualization.,Hard Skill
+418,Jones,robert.jones@marketingresearch.com,Analyst,Brand Strategy,Aims to build negotiation skills while working with SQL.,Soft Skill
+419,Brown,john.brown@marketingresearch.com,Consultant,Data Analytics,Requires advanced training in SEMrush for automation and optimization.,Hard Skill
+420,Rodriguez,emma.rodriguez@marketingresearch.com,Coordinator,Market Research,Wants to learn Miro to improve business intelligence reporting.,Hard Skill
+421,Rodriguez,sarah.rodriguez@marketingresearch.com,Consultant,Data Analytics,Needs expertise in Unreal Engine for data analysis and visualization.,Hard Skill
+422,Brown,david.brown@marketingresearch.com,Consultant,Data Analytics,Looking for better conflict resolution strategies alongside Facebook Ads.,Soft Skill
+423,Miller,michael.miller@marketingresearch.com,Coordinator,Market Research,Seeking training on communication skills and utilizing Microsoft Azure.,Soft Skill
+424,Davis,robert.davis@marketingresearch.com,Coordinator,Survey Analysis,Wants to enhance expertise in Microsoft Azure for cloud computing and deployment.,Hard Skill
+425,Johnson,laura.johnson@marketingresearch.com,Analyst,Survey Analysis,Requires emotional intelligence training to complement their knowledge of QuickBooks.,Soft Skill
+426,Rodriguez,emily.rodriguez@marketingresearch.com,Consultant,Survey Analysis,Interested in teamwork strategies with tools like Python.,Soft Skill
+427,Davis,emily.davis@marketingresearch.com,Executive,Client Relations,Requires emotional intelligence training to complement their knowledge of QuickBooks.,Soft Skill
+428,Brown,chris.brown@marketingresearch.com,Specialist,Brand Strategy,Interested in teamwork strategies with tools like Python.,Soft Skill
+429,Martinez,robert.martinez@marketingresearch.com,Executive,Brand Strategy,Needs to improve time management using tools like Asana.,Soft Skill
+430,Smith,john.smith@marketingresearch.com,Specialist,Survey Analysis,Interested in teamwork strategies with tools like Python.,Soft Skill
+431,Johnson,emma.johnson@marketingresearch.com,Analyst,Market Research,Aiming to gain skills in Hootsuite for predictive analytics and machine learning.,Hard Skill
+432,Davis,emily.davis@marketingresearch.com,Coordinator,Market Research,Needs to improve time management using tools like Asana.,Soft Skill
+433,Johnson,david.johnson@marketingresearch.com,Consultant,Survey Analysis,"Needs to enhance customer engagement skills, integrating Miro.",Soft Skill
+434,Johnson,sarah.johnson@marketingresearch.com,Coordinator,Market Research,Wants to develop leadership skills with the help of Marketo.,Soft Skill
+435,Williams,laura.williams@marketingresearch.com,Executive,Market Research,Looking for specialized knowledge in AWS for social media management.,Hard Skill
+436,Davis,david.davis@marketingresearch.com,Analyst,Client Relations,Wants to enhance expertise in Microsoft Azure for cloud computing and deployment.,Hard Skill
+437,Garcia,david.garcia@marketingresearch.com,Consultant,Brand Strategy,Interested in teamwork strategies with tools like Python.,Soft Skill
+438,Smith,michael.smith@marketingresearch.com,Consultant,Market Research,Needs to improve time management using tools like Asana.,Soft Skill
+439,Davis,robert.davis@marketingresearch.com,Analyst,Market Research,Looking for specialized knowledge in AWS for social media management.,Hard Skill
+440,Johnson,emily.johnson@marketingresearch.com,Executive,Client Relations,Wants to learn Miro to improve business intelligence reporting.,Hard Skill
+441,Garcia,laura.garcia@marketingresearch.com,Consultant,Survey Analysis,Needs expertise in Unreal Engine for data analysis and visualization.,Hard Skill
+442,Miller,jane.miller@marketingresearch.com,Coordinator,Survey Analysis,Seeks proficiency in Miro for financial modeling and forecasting.,Hard Skill
+443,Williams,laura.williams@marketingresearch.com,Analyst,Market Research,Looking for better conflict resolution strategies alongside Facebook Ads.,Soft Skill
+444,Johnson,david.johnson@marketingresearch.com,Specialist,Market Research,Seeks proficiency in Miro for financial modeling and forecasting.,Hard Skill
+445,Smith,sarah.smith@marketingresearch.com,Coordinator,Data Analytics,Seeking training on communication skills and utilizing Microsoft Azure.,Soft Skill
+446,Davis,sarah.davis@marketingresearch.com,Analyst,Brand Strategy,Requires advanced training in SEMrush for automation and optimization.,Hard Skill
+447,Brown,chris.brown@marketingresearch.com,Manager,Data Analytics,Looking for better conflict resolution strategies alongside Facebook Ads.,Soft Skill
+448,Smith,robert.smith@marketingresearch.com,Analyst,Data Analytics,Looking for specialized knowledge in AWS for social media management.,Hard Skill
+449,Rodriguez,sarah.rodriguez@marketingresearch.com,Consultant,Client Relations,Aiming to gain skills in Hootsuite for predictive analytics and machine learning.,Hard Skill
+450,Davis,robert.davis@marketingresearch.com,Specialist,Survey Analysis,Requires emotional intelligence training to complement their knowledge of QuickBooks.,Soft Skill
+451,Jones,michael.jones@marketingresearch.com,Executive,Brand Strategy,Requires advanced training in SEMrush for automation and optimization.,Hard Skill
+452,Martinez,david.martinez@marketingresearch.com,Coordinator,Data Analytics,Aims to build negotiation skills while working with SQL.,Soft Skill
+453,Brown,michael.brown@marketingresearch.com,Coordinator,Brand Strategy,Aiming to gain skills in Hootsuite for predictive analytics and machine learning.,Hard Skill
+454,Williams,emma.williams@marketingresearch.com,Consultant,Brand Strategy,Interested in teamwork strategies with tools like Python.,Soft Skill
+455,Williams,john.williams@marketingresearch.com,Manager,Brand Strategy,Aims to build negotiation skills while working with SQL.,Soft Skill
+456,Davis,michael.davis@marketingresearch.com,Coordinator,Survey Analysis,Wants to learn Miro to improve business intelligence reporting.,Hard Skill
+457,Williams,robert.williams@marketingresearch.com,Coordinator,Survey Analysis,Aims to build negotiation skills while working with SQL.,Soft Skill
+458,Williams,robert.williams@marketingresearch.com,Manager,Market Research,Needs expertise in Unreal Engine for data analysis and visualization.,Hard Skill
+459,Smith,emily.smith@marketingresearch.com,Specialist,Data Analytics,Wants to develop leadership skills with the help of Marketo.,Soft Skill
+460,Jones,robert.jones@marketingresearch.com,Manager,Data Analytics,Wants to enhance expertise in Microsoft Azure for cloud computing and deployment.,Hard Skill
+461,Martinez,robert.martinez@marketingresearch.com,Consultant,Data Analytics,Looking for better conflict resolution strategies alongside Facebook Ads.,Soft Skill
+462,Davis,emily.davis@marketingresearch.com,Executive,Market Research,Needs hands-on experience with AWS to optimize digital campaigns.,Hard Skill
+463,Davis,laura.davis@marketingresearch.com,Consultant,Data Analytics,Interested in teamwork strategies with tools like Python.,Soft Skill
+464,Miller,michael.miller@marketingresearch.com,Executive,Client Relations,Wants to develop leadership skills with the help of Marketo.,Soft Skill
+465,Brown,michael.brown@marketingresearch.com,Manager,Survey Analysis,Wants to learn Miro to improve business intelligence reporting.,Hard Skill
+466,Smith,jane.smith@marketingresearch.com,Coordinator,Survey Analysis,Looking for better conflict resolution strategies alongside Facebook Ads.,Soft Skill
+467,Brown,david.brown@marketingresearch.com,Executive,Data Analytics,Seeks proficiency in Miro for financial modeling and forecasting.,Hard Skill
+468,Jones,michael.jones@marketingresearch.com,Consultant,Brand Strategy,Looking for better conflict resolution strategies alongside Facebook Ads.,Soft Skill
+469,Smith,michael.smith@marketingresearch.com,Consultant,Survey Analysis,Needs hands-on experience with AWS to optimize digital campaigns.,Hard Skill
+470,Brown,david.brown@marketingresearch.com,Manager,Brand Strategy,Wants to learn Miro to improve business intelligence reporting.,Hard Skill
+471,Rodriguez,john.rodriguez@marketingresearch.com,Consultant,Data Analytics,Wants to learn Miro to improve business intelligence reporting.,Hard Skill
+472,Johnson,chris.johnson@marketingresearch.com,Manager,Client Relations,Seeking training on communication skills and utilizing Microsoft Azure.,Soft Skill
+473,Rodriguez,emily.rodriguez@marketingresearch.com,Consultant,Market Research,Requires emotional intelligence training to complement their knowledge of QuickBooks.,Soft Skill
+474,Martinez,emma.martinez@marketingresearch.com,Coordinator,Survey Analysis,Wants to learn Miro to improve business intelligence reporting.,Hard Skill
+475,Miller,sarah.miller@marketingresearch.com,Analyst,Market Research,Aiming to gain skills in Hootsuite for predictive analytics and machine learning.,Hard Skill
+476,Miller,chris.miller@marketingresearch.com,Executive,Market Research,Looking for better conflict resolution strategies alongside Facebook Ads.,Soft Skill
+477,Garcia,sarah.garcia@marketingresearch.com,Analyst,Survey Analysis,Seeking training on communication skills and utilizing Microsoft Azure.,Soft Skill
+478,Garcia,emily.garcia@marketingresearch.com,Coordinator,Data Analytics,Seeks proficiency in Miro for financial modeling and forecasting.,Hard Skill
+479,Rodriguez,laura.rodriguez@marketingresearch.com,Analyst,Data Analytics,Needs hands-on experience with AWS to optimize digital campaigns.,Hard Skill
+480,Garcia,laura.garcia@marketingresearch.com,Consultant,Survey Analysis,Wants to enhance expertise in Microsoft Azure for cloud computing and deployment.,Hard Skill
+481,Brown,jane.brown@marketingresearch.com,Manager,Data Analytics,Requires emotional intelligence training to complement their knowledge of QuickBooks.,Soft Skill
+482,Davis,sarah.davis@marketingresearch.com,Specialist,Data Analytics,Wants to learn Miro to improve business intelligence reporting.,Hard Skill
+483,Miller,jane.miller@marketingresearch.com,Analyst,Data Analytics,Seeking training on communication skills and utilizing Microsoft Azure.,Soft Skill
+484,Garcia,laura.garcia@marketingresearch.com,Executive,Data Analytics,Looking for specialized knowledge in AWS for social media management.,Hard Skill
+485,Davis,chris.davis@marketingresearch.com,Executive,Client Relations,Wants to enhance expertise in Microsoft Azure for cloud computing and deployment.,Hard Skill
+486,Williams,robert.williams@marketingresearch.com,Coordinator,Survey Analysis,Wants to develop leadership skills with the help of Marketo.,Soft Skill
+487,Miller,michael.miller@marketingresearch.com,Specialist,Brand Strategy,Needs to improve time management using tools like Asana.,Soft Skill
+488,Smith,jane.smith@marketingresearch.com,Specialist,Data Analytics,Wants to develop leadership skills with the help of Marketo.,Soft Skill
+489,Rodriguez,michael.rodriguez@marketingresearch.com,Coordinator,Survey Analysis,Interested in teamwork strategies with tools like Python.,Soft Skill
+490,Garcia,david.garcia@marketingresearch.com,Manager,Brand Strategy,Seeks proficiency in Miro for financial modeling and forecasting.,Hard Skill
+491,Miller,emily.miller@marketingresearch.com,Executive,Data Analytics,Wants to enhance expertise in Microsoft Azure for cloud computing and deployment.,Hard Skill
+492,Martinez,jane.martinez@marketingresearch.com,Specialist,Survey Analysis,Wants to enhance expertise in Microsoft Azure for cloud computing and deployment.,Hard Skill
+493,Miller,robert.miller@marketingresearch.com,Specialist,Brand Strategy,Requires emotional intelligence training to complement their knowledge of QuickBooks.,Soft Skill
+494,Miller,laura.miller@marketingresearch.com,Manager,Client Relations,Wants to enhance expertise in Microsoft Azure for cloud computing and deployment.,Hard Skill
+495,Johnson,chris.johnson@marketingresearch.com,Analyst,Brand Strategy,Looking for specialized knowledge in AWS for social media management.,Hard Skill
+496,Rodriguez,emily.rodriguez@marketingresearch.com,Executive,Brand Strategy,Needs to improve time management using tools like Asana.,Soft Skill
+497,Martinez,jane.martinez@marketingresearch.com,Coordinator,Brand Strategy,Requires emotional intelligence training to complement their knowledge of QuickBooks.,Soft Skill
+498,Jones,laura.jones@marketingresearch.com,Specialist,Survey Analysis,Aiming to gain skills in Hootsuite for predictive analytics and machine learning.,Hard Skill
+499,Miller,david.miller@marketingresearch.com,Manager,Client Relations,Looking for better conflict resolution strategies alongside Facebook Ads.,Soft Skill
+500,Miller,laura.miller@marketingresearch.com,Executive,Market Research,Aims to build negotiation skills while working with SQL.,Soft Skill
